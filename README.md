@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to unclosed paragraph tags when content is dynamically generated using JavaScript. The bug can lead to unexpected rendering behavior in some browsers, affecting the visual layout of the page. The solution involves careful checking and proper closing of HTML tags during dynamic content generation.
